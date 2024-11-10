@@ -1,0 +1,1 @@
+var json_TPU_17 = {"type":"FeatureCollection","name":"TPU_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","TPU":"TPU Karangwangkal"},"geometry":{"type":"Point","coordinates":[109.255028784211035,-7.403185092278508]}}]}
